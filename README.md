@@ -250,13 +250,6 @@ Star College · 2019 – 2023
 
 ---
 
-<!-- Snake animation (requires Platane/snk action — instructions below in setup) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mehirlallie/mehirlallie/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling"/>
