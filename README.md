@@ -106,26 +106,14 @@ mantra:      "Build it scalable, ship it clean, make it solve real problems."
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehirlallie&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Mehir's GitHub stats"/>
-</a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img height="180em" src="https://streak-stats.demolab.com?user=mehirlallie&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehirlallie&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/>
+<br/><br/>
 
 <!-- Trophy showcase -->
 <img src="https://github-profile-trophy.vercel.app/?username=mehirlallie&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-
-<br/>
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehirlallie&theme=tokyo-night&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
