@@ -106,8 +106,12 @@ mantra:      "Build it scalable, ship it clean, make it solve real problems."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehirlallie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mehirlallie&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehirlallie&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Mehir's GitHub stats"/>
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height="180em" src="https://streak-stats.demolab.com?user=mehirlallie&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 <br/>
 
@@ -121,7 +125,7 @@ mantra:      "Build it scalable, ship it clean, make it solve real problems."
 <br/>
 
 <!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehirlallie&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehirlallie&theme=tokyo-night&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
