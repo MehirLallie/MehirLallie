@@ -203,7 +203,7 @@ Normalised MySQL schema with stored procedures, triggers, and a Java front-end i
 </tr>
 </table>
 
-> 📌 **Tip:** Pin your favourite repos on your GitHub profile so they appear directly under this README.
+
 
 ---
 
